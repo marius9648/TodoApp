@@ -1,7 +1,6 @@
-- am incercat sa tin componenta App cat mai curata
-- returneaza o singura instanta a aplicatiei Todo (TodoApp)
+- am incercat sa tin componenta App cat mai curata, aceasta returneaza o singura instanta a aplicatiei (TodoApp)
 - componenta TodoApp controleaza state-ul celorlalte componente => va randa un TodoForm si un TodoList (aceasta va contine itemele listei - TodoItem)
-- am folosit sistemul de grid de la Material UI
+- am folosit Material UI pentru grid si componente
 - am folosit localStorage pentru a salva todo-urile
 
 Schema componente:
