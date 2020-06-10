@@ -1,3 +1,9 @@
+Pentru a porni aplicatia:
+
+1. npm install
+2. npm start
+
+
 - am incercat sa tin componenta App cat mai curata, aceasta returneaza o singura instanta a aplicatiei (TodoApp)
 - componenta TodoApp controleaza state-ul celorlalte componente => va randa un TodoForm si un TodoList (aceasta va contine itemele listei - TodoItem)
 - am folosit Material UI pentru grid si componente
